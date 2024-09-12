@@ -1,4 +1,4 @@
-package com.github.vekunz.intellijplugindevenv.toolWindow
+package com.github.vekunz.devenv.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.vekunz.intellijplugindevenv.MyBundle
-import com.github.vekunz.intellijplugindevenv.services.MyProjectService
+import com.github.vekunz.devenv.MyBundle
+import com.github.vekunz.devenv.services.MyProjectService
 import javax.swing.JButton
 
 

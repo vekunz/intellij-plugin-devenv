@@ -1,4 +1,4 @@
-package com.github.vekunz.intellijplugindevenv.listeners
+package com.github.vekunz.devenv.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
